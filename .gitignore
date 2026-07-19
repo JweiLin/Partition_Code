@@ -1,0 +1,8 @@
+data/**/design.are
+data/**/design.net
+data/**/design.info
+data/**/output*.txt
+data/**/path*
+data/**/time.*.csv
+data/**/*.part*
+run_logs/
