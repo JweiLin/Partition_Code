@@ -26,12 +26,6 @@ To run another dataset, replace both occurrences of the dataset directory:
 ./MH -t ./data/case01 -s ./data/case01/output.txt -imbalance 0.2
 ```
 
-Notes:
-
-- `alpha` is fixed inside `MH` as `0.01`.
-- `max-hop` is read by `MH` from the embedded case configuration.
-- The `case1` to `case8` names correspond to directories `case01` to `case08`.
-
 ## Included Datasets
 
 ```text
