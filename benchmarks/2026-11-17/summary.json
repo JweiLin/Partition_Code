@@ -1,0 +1,22 @@
+{
+  "cases": 30,
+  "delay_better": 6,
+  "delay_equal": 24,
+  "delay_worse": 0,
+  "hop_pass": 30,
+  "wall_seconds_sum": 1813.622,
+  "reported_seconds_sum": 1726.80901,
+  "ours_seconds_sum": 3138,
+  "wall_below_ours": 30,
+  "wall_above_ours": 0,
+  "timing_note": "Serial full-process wall time; reference R is historical, so ratios are observational, not a controlled speedup claim.",
+  "package_sha256": "18307816e2be6dd67b0ced099822b5b4266929b3d15da47662f88afd75b284a8",
+  "same_as_verified_cases": 30,
+  "smoke_test_threads": {
+    "mh": 1,
+    "other": 1,
+    "mtka": 1
+  },
+  "input_files_unchanged": 60,
+  "wall_ratio_geomean": 0.625244404356746
+}
