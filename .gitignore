@@ -6,8 +6,3 @@ data/**/path*
 data/**/time.*.csv
 data/**/*.part*
 run_logs/
-__pycache__/
-*.pyc
-output.dis
-core
-core.*
